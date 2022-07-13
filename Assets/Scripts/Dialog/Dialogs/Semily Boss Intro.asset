@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 034ea3c9d6d10b1438e82566923fb64b, type: 3}
+  m_Name: Semily Boss Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: f7d5d6e6bc9138b46b6913ebbca9675e, type: 2}
+    dialog: bruh what the fuck is this place
+  - speaker: {fileID: 11400000, guid: 66993e4d884998e42b20db8a9684255f, type: 2}
+    dialog: 'this is brazil (ruins)...
+
+      fucked up isn''t it...'
+  - speaker: {fileID: 11400000, guid: f7d5d6e6bc9138b46b6913ebbca9675e, type: 2}
+    dialog: who asked
+  - speaker: {fileID: 11400000, guid: 25afdbe7a00e6df49abea9a5a48c98d0, type: 2}
+    dialog: fuck you asshole
+  - speaker: {fileID: 11400000, guid: 03079651bf87cde4e86674173ce0ab64, type: 2}
+    dialog: this was my home
